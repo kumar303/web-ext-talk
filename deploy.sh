@@ -3,7 +3,7 @@
 if [[ $(git diff --shortstat 2> /dev/null | tail -n1) != "" ]]; then
     git status
     echo "---------------------------------------------------------"
-    echo "You need to commit and push all changes first"
+    echo "You need to commit all changes first"
     echo "---------------------------------------------------------"
     exit 1
 fi
