@@ -4,7 +4,7 @@
 
 #
 
-Customize your browser with WebExtensions (TEST2)
+Customize your browser with WebExtensions
 
 #
 
