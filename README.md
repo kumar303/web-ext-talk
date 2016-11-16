@@ -4,6 +4,10 @@ This is a place I dump slides for when I talk about [web-ext](https://github.com
 
 View the slides: https://kumar303.github.io/web-ext-talk/
 
+# Past talks
+
+* [Mozilla weekly status, Oct 10, 2016](https://air.mozilla.org/mozilla-weekly-project-meeting-20161010/)
+
 # Note to self
 
 To build the slides, create a [virtualenv](https://pypi.python.org/pypi/virtualenv)
