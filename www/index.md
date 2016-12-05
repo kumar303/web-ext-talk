@@ -42,7 +42,7 @@ Open source collaboration
 # Contributor types:
 
 * Feature X is broken
-* I want feature X
+* I want feature Y
 * I want to learn cool stuff!
 * This is fun!
 
@@ -72,5 +72,7 @@ Open source collaboration
 #
 
 <strike>"If you can't figure out how to make the change, you're not qualified"</strike>
+
+# good first bug
 
 # Empathy
