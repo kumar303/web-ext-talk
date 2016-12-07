@@ -17,7 +17,7 @@ Open source collaboration
 #
 
 * Yes, it takes more time.
-* Yes, it's worth it.
+* It's worth it.
 
 # Open source at Mozilla
 
