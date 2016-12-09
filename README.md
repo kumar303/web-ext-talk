@@ -6,6 +6,9 @@ View the slides: https://kumar303.github.io/web-ext-talk/
 
 # Past talks
 
+You can view these slide decks in the tags.
+
+* [Mozilla All-Hands in Hawaii, 2016](https://wiki.mozilla.org/All_Hands/2016_Hawaii)
 * [Mozilla weekly status, Oct 10, 2016](https://air.mozilla.org/mozilla-weekly-project-meeting-20161010/)
 
 # Note to self
